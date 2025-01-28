@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Mauricio Calderón</h1>
-<h3 align="center">A Computer Engineering Student at Tecnológico de Costa Rica. Building the future, one line of code at a time | Lifelong Learner 🚀</h3>
+<p align="center">A Computer Engineering Student at Tecnológico de Costa Rica. Building the future, one line of code at a time | Lifelong Learner 🚀</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
