@@ -5,7 +5,7 @@
 <div id="badges">
     <h1>Connect with me 🔗</h1>
     <a href="https://x.com/mau1412261" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
+        <img src="[https://img.shields.io/badge/X-black]" 
             alt="Twitter Badge" />
     </a>
     <a href="https://www.linkedin.com/in/mauricio-calderon-chavarria/" target="_blank">
@@ -66,7 +66,6 @@
 <div>
 📊 My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MAU143429&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MAU143429&show_icons=true&theme=radical)
 
