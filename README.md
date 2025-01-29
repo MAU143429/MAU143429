@@ -4,7 +4,10 @@
 
 <div id="badges">
     <h1>Connect with me 🔗</h1>
-    
+    <a href="https://x.com/mau1412261" target="_blank">
+        <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" 
+            alt="X Badge" />
+    </a>
     <a href="https://www.linkedin.com/in/mauricio-calderon-chavarria/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
             alt="Linkedin Badge" />
@@ -22,13 +25,7 @@
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
             alt="Instagram Badge" />
     </a>
-
-    <a href="https://x.com/mau1412261" target="_blank">
-        <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" 
-            alt="X Badge" />
-    </a>
-
-
+    
 </div>
 
 <h3>Frameworks,&nbsp;&nbsp;Languages,&nbsp;&nbsp;Databases&nbsp;&nbsp;and&nbsp;&nbsp;Tools 🛠️&nbsp;&nbsp;</h3>
