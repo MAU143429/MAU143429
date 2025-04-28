@@ -7,7 +7,7 @@
     <h1 align="center" >Connect with me 🔗</h1>
     <p align="center">
   <!-- 🌐 Personal Website -->
-  <a href="https://maucalderon.dev" target="_blank">
+  <a href="https://maucalderon.com" target="_blank">
     <img src="https://raw.githubusercontent.com/MAU143429/MAU143429/main/assets/web.png" alt="Web" width="50" height="50" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
